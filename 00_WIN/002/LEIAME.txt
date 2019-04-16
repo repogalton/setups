@@ -1,0 +1,3 @@
+O setup aqui disponibilizado possui caráter meramente educativo, sendo que os usuários, devem, portanto, desenvolver seu próprio setup.
+Autor: Matheus Mendonça.
+Observação do autor: Requer ajuste do DX de acordo com o mercado.
